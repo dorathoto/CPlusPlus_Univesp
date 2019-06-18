@@ -12,6 +12,15 @@ Ou se preferir por vídeo [[Youtube, Playlist](https://www.youtube.com/watch?v=5
 ### **Enquete**
 Não deixe de participar da enquete para conhecermos melhor o grupo!
 [Acessar enquete](https://docs.google.com/forms/d/e/1FAIpQLSfS-bFh7PiI-ZE2iNYCV6-KuF759xbld2hollR4XcvZ87L0YA/viewform?usp=sf_link)
+### Semana 3 - 22/06 a 29/06 
+> (corte de quem não produziu print semana1)
+> Semana pré prova, então bem light, continuaremos com as variáveis;
+
+Ter assistido as aulas da Semana 2;
+**Assistir**:  vídeos [10](https://youtu.be/tF8RYqycMRQ "10"), [11](https://youtu.be/KofxnwaGw10 "11"), [12](https://youtu.be/Asa5o5CA3GA "12") (*15 minutos de vídeo*)
+**Se tiver dúvida**: Ler os artigos: 'Características das Variáveis em C++', 'Manipulando Variáveis em C++' e 'Nomenclatura de Variáveis em C++'
+Postar um print no grupo, com variaveis (complemento da semana 2)
+
 ### Semana 2  - 16/06 a 22/06
 Ter assistido as aulas da Semana 1(vídeos 01 ao 05)
 - **Assistir**: vídeos  [06](https://youtu.be/TgvNryh4bDs "06"), [07](https://youtu.be/t17Zrvh6EtI "07"), [08](https://youtu.be/wPlltR2dtSQ "08") e [09](https://youtu.be/5t262w4wcjM "09")  - *[15 minutos de vídeos]*
