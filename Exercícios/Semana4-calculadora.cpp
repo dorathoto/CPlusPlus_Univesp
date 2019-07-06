@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     char op;
-    float a, b, res;
+    float a, b, res=0;
 
     cout << "Use operador ';' para sair." << endl;
 
@@ -34,7 +34,6 @@ int main()
                 return 0;
                 break;
             default:
-                res = 0;
                 cout << "Operador inválido!" << endl;
         }
 
