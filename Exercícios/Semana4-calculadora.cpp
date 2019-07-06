@@ -1,5 +1,4 @@
 #include <iostream>
-#include <string>
 
 using namespace std;
 
@@ -39,7 +38,7 @@ int main()
                 cout << "Operador inválido!" << endl;
         }
 
-        cout << a << op << b << " = " << res << endl
+        cout << a << op << b << " = " << res << "\n"
              << endl;
     }
 
