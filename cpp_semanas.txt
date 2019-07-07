@@ -1,3 +1,5 @@
+Inicio: Módulo "0"
+
 Semana 1:
     Abertura do Curso de C++
     Visão Geral da Linguagem C++
@@ -18,7 +20,7 @@ Semana 4:
     Stream em C++
     Manipulação de Dados em C++
     Modificadores de Tipo em C++
-Semana 5: 
+Semana 5:
     Operadores Aritméticos do C++
     Construindo uma Calculadora com C++
     Módulo da Divisão em C++
@@ -30,37 +32,48 @@ Semana 6:
     Operadores Lógicos do C++
     Operadores de Atribuíção do C++
 
-Fim módulo "0"
+Fim: Módulo "0"
 
+===================================================
+
+Inicio: Módulo "1"
+
+Semana 1:
     Iteração em C++
     Estrutura de Repetição for do C++
     Operadores de Incremento e Decremento do C++
     Tabuada em C++
+Semana 2:
     Estrutura de Repetição while do C++
     Programa em Looping em C++
     Estrutura de Repetição do-while do C++
     Estrutura de Seleção Múltipla switch do C++
     Estrutura de Seleção Múltipla switch do C++ (parte II)
+Semana 3:
     Depuração de Código C++
     Depuração de Código C++ (parte II)
     Depurando com o Clion Código C++
     Depurando com o Code::Block Código C++
+Semana 4:
     Blocos de Instrução em C++
     Blocos de Instrução em C++ (parte II)
     Blocos de Instrução em C++ (parte III)
     Operador Ternário do C++
     Operador Ternário do C++ (parte 2)
+Semana 5:
     Instrução break do C++
     Instrução break do C++ (parte II)
     Instrução continue do C++
     Precedência de Operadores do C++
     Associatividade de Operadores em C++
+Semana 6:
     Introdução aos Arrays em C++
     Declaração de Arrays em C++
     Arrays - Definições em C++
     Inicialização de Arrays em C++
     Percorrendo os Elementos de um Array em C++
     Calculando a Média Aritmética com Arrays em C++
+Semana 7:
     Arrays Multidimensionais em C++
     Manipulação de Arrays Bidimensionais em C++
     Laços Aninhados
@@ -68,3 +81,12 @@ Fim módulo "0"
     Manipulando Planilhas em C++
     Introdução às Estruturas em C++
     Utilizando struct em C++
+
+Fim: Módulo "1"
+
+=========================================================
+
+Inicio: Módulo "2"
+
+Procurar material sobre POO
+
