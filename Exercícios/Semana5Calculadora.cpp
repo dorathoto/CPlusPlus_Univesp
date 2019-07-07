@@ -10,27 +10,21 @@ using namespace std;
 
 float funcAdicionar(float x, float y)
 {
-    float soma;
-    soma = x + y;
-    return soma;
+    return x + y; //modo clean
 }
 float funcSubtrair(float x, float y)
 {
     float subtrac;
     subtrac = x - y;
-    return subtrac;
+    return subtrac; //modo verboso
 }
 float funcMultiplicar(float x, float y)
 {
-    float multip;
-    multip = x * y;
-    return multip;
+    return x * y;
 }
 float funcDivisao(float x, float y)
 {
-    float divis;
-    divis = x / y;
-    return divis;
+    return x / y;
 }
 
 string Cabecalho()
