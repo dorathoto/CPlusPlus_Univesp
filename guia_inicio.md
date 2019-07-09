@@ -75,4 +75,16 @@ Todos eles ou nenhum deles, segundo o gosto do fregués. Em esse grupo de estudo
 
 O C++ é uma linguagem que pode ser usada para programar todo tipo de aplicações, mas ele é muito apropriado para aplicações onde as restrições de memória ou a performance é crítica. Pelo fato dele ser uma linguagem de baixo nível, ele também pode ser usado onde outras linguagens não poderiam ser usadas, como programação de microcontroladores (Arduino, por exemplo). É muito usado em programação de games e sistemas operacionais.
 
+**Como eu faço para passar de nível no grupo?**
+
+Você precisa demonstrar que conseguiu pegar o conteúdo das primeiras seis semanas, postando 6 print resumindo o que você aprendeu a cada semana.
+
+**Eu já sei programamr, preciso esperar 6 semanas para passar de nível?**
+
+Não precisa, só precisa demonstrar que conhece o mínimo necessário. Veja a lista de tópicos, escreva um código que use esses conteúdos e poste no grupo como "Semana 6".
+
+**Aonde eu posso acompanhar meu progresso no grupo?**
+
+Nesse link: [Controle semanal](https://docs.google.com/spreadsheets/d/1LhbULA5L_ddrEr36lYzbqimE0286A2p_WnO8dSswRQg/edit?usp=sharing). Se a gente não registrou alguma das suas postagens, por favor, notifique os administradores.
+
 Outras informações você encontra no [repositório GitHub do grupo](https://github.com/dorathoto/CPlusPlus_Univesp).
