@@ -17,7 +17,7 @@ Estudar de forma coletiva a linguagem de programação C++, a qual será de gran
 
 **SOFTWARE**:
 
-Você é livre de experimentar com o software que você quiser, mas, para as atividades do grupo de estudos todos os participantes usaram o mesmo ambiente de desenvolvimento. Usaremos o [Code::Block](http://www.codeblocks.org/) para editar e compilar os códigos. As videoaulas da semana 1 mostram o passo a passo da instalação e uso da ferramenta.
+Você é livre de experimentar com o software que você quiser, mas, para as atividades do grupo de estudos todos os participantes usarão o mesmo ambiente de desenvolvimento. Usaremos o [Code::Block](http://www.codeblocks.org/) para editar e compilar os códigos. As videoaulas da semana 1 mostram o passo a passo da instalação e uso da ferramenta.
 
 **MATERIAL DE ESTUDO**:
 
@@ -65,7 +65,7 @@ O C++ é um superset da linguagem C, isso quer dizer que a linguagem C++ tem tod
 
 **Mas, porque escolheram o C++ e não o C?**
 
-Porque o curso vai usar o C++ em outras disciplinas, como Programação Orientada a Objetos. A prórpria disciplina de Estrutura de Dados tem o C++ na sua bibliografia. A gente acho que era melhor focar em uma linguagem que iria dar conta de vários paradigmas de programação e que, ao mesmo tempo, permitia aprender tudo que o C tem a nos ensinar.
+Porque o curso vai usar o C++ em outras disciplinas, como Programação Orientada a Objetos. A própria disciplina de Estrutura de Dados tem o C++ na sua bibliografia. A gente achou que era melhor focar em uma linguagem que iria dar conta de vários paradigmas de programação e que, ao mesmo tempo, permitiria aprender tudo que o C tem a nos ensinar.
 
 **Qual IDE ou editor de texto é melhor para programar em C++?**
 
