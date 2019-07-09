@@ -29,32 +29,52 @@ Semana 1:
     Visão Geral da Linguagem C++
     Instalando o Code::Blocks para Desenvolvimento C++
     Instalando a IDE CLion para Desenvolvimento em C++
+
+    Print: CodeBlocks instalado e compilando um Olá Mundo!
+
 Semana 2:
     Primeiro Programa em C++
     Comentários em C++
     Indentação, Espaço em Branco e Ponto e Vírgula em C++
     Variável em C++
+
+    Print: Código usando corretamente indentação, ponto e
+    vírgula, os dois tipos de comentários e varíaveis.
+
 Semana 3:
     Tipos Primitivos do C++
     Características das Variáveis em C++
     Manipulando Variáveis em C++
     Nomenclatura de Variáveis em C++
+
+    Print: Código imprimindo informações sobre os tipos
+    primitivos, usando corretamente nomes de variáveis.
+
 Semana 4:
     Introdução às Stream em C++
     Stream em C++
     Manipulação de Dados em C++
     Modificadores de Tipo em C++
+
+    Print: Código com entrada e saída de dados e variáveis
+    com modificadores de tipo.
+
 Semana 5:
     Operadores Aritméticos do C++
     Construindo uma Calculadora com C++
     Módulo da Divisão em C++
     Operadores Relacionais do C++
+
+    Print: Calculadora simples.
+
 Semana 6:
     Tomada de Decisão em C++
     Tomada de Decisão - Estrutura else em C++
     Tomada de Decisão - Estrutura else em C++
     Operadores Lógicos do C++
     Operadores de Atribuíção do C++
+
+    Print: Calculadora melhorada.
 ```
 
 ## FAQs
