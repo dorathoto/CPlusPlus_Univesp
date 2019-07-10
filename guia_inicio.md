@@ -25,13 +25,13 @@ Você é livre de experimentar com o software que você quiser, mas, para as ati
 ### **Link com os conteúdos semanais, [clique aqui](https://github.com/dorathoto/CPlusPlus_Univesp "clique aqui")**
 
 #### Regra do grupo Whatsapp
-Ninguém quer chegar depois de 1 dia sem olhar o grupo, encontrar 200 mensagens não lidas. Então evite perguntas desnecessárias, foque no assunte, se tiver alguma dúvida pergunte! Se quer falar que acha o Visual Code mais legal, ok chama alguém no privado e fale.
+Ninguém quer chegar depois de 1 dia sem olhar o grupo, encontrar 200 mensagens não lidas. Então evite perguntas desnecessárias, foque no assunto, se tiver alguma dúvida pergunte! Se quer falar que acha o Visual Code mais legal, ok, chama alguém no privado e fale.
 
 ## FAQs
 
 **Olhei na disciplina de Estrutura de Dados e eles não usam C++, eles usam C. Não seria melhor estudar C então?**
 
-O C++ é um superset da linguagem C, isso quer dizer que a linguagem C++ tem todas as ferramentas da linguagem C e algumas a mais. Por tanto, enquento você estiver aprendendo C++, estará ao mesmo tempo aprendendo a programar em C.
+O C++ é um superset da linguagem C, isso quer dizer que a linguagem C++ tem todas as ferramentas da linguagem C e algumas a mais. Por tanto, enquanto você estiver aprendendo C++, estará ao mesmo tempo aprendendo a programar em C.
 
 **Mas, porque escolheram o C++ e não o C?**
 
@@ -39,7 +39,7 @@ Porque o curso vai usar o C++ em outras disciplinas, como Programação Orientad
 
 **Qual IDE ou editor de texto é melhor para programar em C++?**
 
-Todos eles ou nenhum deles, segundo o gosto do fregués. Em esse grupo de estudos vamos usar o **Code::Blocks**. É importante todo mundo usar a mesma ferramenta porque isso simplifica a vida de quem presta assistência quando alguma coisa não está funcionando como esperado.
+Todos eles ou nenhum deles, segundo o gosto do freguês. Nesse grupo de estudos vamos usar o **Code::Blocks**. É importante todo mundo usar a mesma ferramenta porque isso simplifica a vida de quem presta assistência quando alguma coisa não está funcionando como esperado.
 
 **Tem vários instaladores no site do Code::Blocks. Qual tenho que instalar?**
 
