@@ -1,17 +1,26 @@
 # Bem vindo ao grupo Univesp C++
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-145%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-5-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-159%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-5-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 Como todo bom engenheiro devemos saber programação. E o conhecimento em C++ é um diferencial. Aqui estamos todos aprendendo, vamos junto nessa aventura de baixo nível da Univesp.
 
-Inicialmente até encontrarmos algo melhor esse é o nosso material.
+#### Iniciantes?
+Se está chegando agora e não sabe por onde começar, leia nossas **Wiki Pages**, principalmente o [**Guia de Iniciantes**](https://github.com/dorathoto/CPlusPlus_Univesp/wiki/Guia-Iniciantes "Guia de Iniciantes")
+
+### Material de estudo
+Artigos:
 [http://excript.com/curso-cpp.html](http://excript.com/curso-cpp.html)
 
-Ou se preferir por vídeo [[Youtube, Playlist](https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo "Youtube, Playlist")]
+Playlist Youtube [[Youtube, Playlist](https://www.youtube.com/watch?v=5W9YsbqnX0U&list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo "Youtube, Playlist")]
+
 
 
 ### **Enquete**
 Não deixe de participar da enquete para conhecermos melhor o grupo!
 [Acessar enquete](https://docs.google.com/forms/d/e/1FAIpQLSfS-bFh7PiI-ZE2iNYCV6-KuF759xbld2hollR4XcvZ87L0YA/viewform?usp=sf_link)
+
+------------
+
+
 ### Semana 6 -  13/07 a 20/07
 **Assistir**:  vídeos [21](https://youtu.be/lTo_Y5UamuI "20"), [22](https://youtu.be/VxTopjwodqc "22"), [23](https://youtu.be/tPVOKkampII "23"), [24](https://youtu.be/LlEJALDCCGY "24") e [25](https://youtu.be/yQg9Zbe3JNk "25")
 Ler os artigos para complementar:
