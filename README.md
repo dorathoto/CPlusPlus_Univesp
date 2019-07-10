@@ -18,6 +18,10 @@ Playlist Youtube [[Youtube, Playlist](https://www.youtube.com/watch?v=5W9YsbqnX0
 Não deixe de participar da enquete para conhecermos melhor o grupo!
 [Acessar enquete](https://docs.google.com/forms/d/e/1FAIpQLSfS-bFh7PiI-ZE2iNYCV6-KuF759xbld2hollR4XcvZ87L0YA/viewform?usp=sf_link)
 
+
+### O Seu Progresso - Ranking
+Confira se você já está habilitado para próxima etapa. [Clique aqui para ver.](https://docs.google.com/spreadsheets/u/2/d/1LhbULA5L_ddrEr36lYzbqimE0286A2p_WnO8dSswRQg/edit?usp=sharing "Clique aqui para ver.")
+
 ------------
 
 
