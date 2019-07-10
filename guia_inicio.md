@@ -17,65 +17,15 @@ Estudar de forma coletiva a linguagem de programação C++, a qual será de gran
 
 **SOFTWARE**:
 
-Você é livre de experimentar com o software que você quiser, mas, para as atividades do grupo de estudos todos os participantes usarão o mesmo ambiente de desenvolvimento. Usaremos o [Code::Block](http://www.codeblocks.org/) para editar e compilar os códigos. As videoaulas da semana 1 mostram o passo a passo da instalação e uso da ferramenta.
+Você é livre de experimentar com o software que você quiser, mas, para as atividades do grupo de estudos todos os participantes usarão o mesmo ambiente de desenvolvimento. Usaremos o [Code::Block](http://www.codeblocks.org/) [Link para download versão correta, [clique aqui](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe "clique aqui")] para editar e compilar os códigos. As videoaulas da semana 1 mostram o passo a passo da instalação e uso da ferramenta.
 
 **MATERIAL DE ESTUDO**:
 
-Estamos acompanhando o [curso online de C++ da eXcript](http://excript.com/curso-cpp.html). O módulo "ZERO" dura 6 semanas, com a seguinte programação:
 
-```
-Semana 1:
-    Abertura do Curso de C++
-    Visão Geral da Linguagem C++
-    Instalando o Code::Blocks para Desenvolvimento C++
-    Instalando a IDE CLion para Desenvolvimento em C++
+### **Link com os conteúdos semanais, [clique aqui](https://github.com/dorathoto/CPlusPlus_Univesp "clique aqui")**
 
-    Print: CodeBlocks instalado e compilando um Olá Mundo!
-
-Semana 2:
-    Primeiro Programa em C++
-    Comentários em C++
-    Indentação, Espaço em Branco e Ponto e Vírgula em C++
-    Variável em C++
-
-    Print: Código usando corretamente indentação, ponto e
-    vírgula, os dois tipos de comentários e varíaveis.
-
-Semana 3:
-    Tipos Primitivos do C++
-    Características das Variáveis em C++
-    Manipulando Variáveis em C++
-    Nomenclatura de Variáveis em C++
-
-    Print: Código imprimindo informações sobre os tipos
-    primitivos, usando corretamente nomes de variáveis.
-
-Semana 4:
-    Introdução às Stream em C++
-    Stream em C++
-    Manipulação de Dados em C++
-    Modificadores de Tipo em C++
-
-    Print: Código com entrada e saída de dados e variáveis
-    com modificadores de tipo.
-
-Semana 5:
-    Operadores Aritméticos do C++
-    Construindo uma Calculadora com C++
-    Módulo da Divisão em C++
-    Operadores Relacionais do C++
-
-    Print: Calculadora simples.
-
-Semana 6:
-    Tomada de Decisão em C++
-    Tomada de Decisão - Estrutura else em C++
-    Tomada de Decisão - Estrutura else em C++
-    Operadores Lógicos do C++
-    Operadores de Atribuíção do C++
-
-    Print: Calculadora melhorada.
-```
+#### Regra do grupo Whatsapp
+Ninguém quer chegar depois de 1 dia sem olhar o grupo, encontrar 200 mensagens não lidas. Então evite perguntas desnecessárias, foque no assunte, se tiver alguma dúvida pergunte! Se quer falar que acha o Visual Code mais legal, ok chama alguém no privado e fale.
 
 ## FAQs
 
