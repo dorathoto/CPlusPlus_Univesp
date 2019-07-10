@@ -41,6 +41,10 @@ Porque o curso vai usar o C++ em outras disciplinas, como Programação Orientad
 
 Todos eles ou nenhum deles, segundo o gosto do fregués. Em esse grupo de estudos vamos usar o **Code::Blocks**. É importante todo mundo usar a mesma ferramenta porque isso simplifica a vida de quem presta assistência quando alguma coisa não está funcionando como esperado.
 
+**Tem vários instaladores no site do Code::Blocks. Qual tenho que instalar?**
+
+Esse aqui: [instalador](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-17.12mingw-setup.exe)
+
 **E o C++ serve para o que?**
 
 O C++ é uma linguagem que pode ser usada para programar todo tipo de aplicações, mas ele é muito apropriado para aplicações onde as restrições de memória ou a performance é crítica. Pelo fato dele ser uma linguagem de baixo nível, ele também pode ser usado onde outras linguagens não poderiam ser usadas, como programação de microcontroladores (Arduino, por exemplo). É muito usado em programação de games e sistemas operacionais.
