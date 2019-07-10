@@ -74,5 +74,3 @@ int main(){
 ```
 
 Link do **CodeBlock** correto: [Clique aqui](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe "Clique aqui")
-
-> Quem não fizer vai ganhando pontos... pra sair 😘
