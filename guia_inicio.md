@@ -44,6 +44,7 @@ Todos eles ou nenhum deles, segundo o gosto do fregués. Em esse grupo de estudo
 **Tem vários instaladores no site do Code::Blocks. Qual tenho que instalar?**
 
 Esse aqui: [instalador](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-17.12mingw-setup.exe)
+Se tiver dúvida de como instalar, utilize a nossa [wiki page, clique aqui](https://github.com/dorathoto/CPlusPlus_Univesp/wiki/Como-instalar-CodeBlock-Windows "wiki page")
 
 **E o C++ serve para o que?**
 
