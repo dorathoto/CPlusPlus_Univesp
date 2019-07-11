@@ -6,6 +6,9 @@ Como todo bom engenheiro devemos saber programação. E o conhecimento em C++ é
 #### Iniciantes?
 Se está chegando agora e não sabe por onde começar, leia nossas **Wiki Pages**, principalmente o [**Guia de Iniciantes**](https://github.com/dorathoto/CPlusPlus_Univesp/wiki/Guia-Iniciantes "Guia de Iniciantes")
 
+> **Atenção!!**
+Esse não é um curso focado para a disciplina Estrutura de dados, apesar que fazer esse curso ajudará em muito a disciplina.
+
 ### Material de estudo
 Artigos:
 [http://excript.com/curso-cpp.html](http://excript.com/curso-cpp.html)
