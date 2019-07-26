@@ -1,5 +1,5 @@
 # Bem vindo ao grupo Univesp C++
-[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-168%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-5-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
+[![Abrir grupo WhatApp](https://img.shields.io/badge/WhatApp-214%20participantes-green.svg "Abrir grupo WhatApp")](https://chat.whatsapp.com/JySnXv3d8IJE7qFnZ88Mwz "Abrir grupo WhatApp") ![](https://img.shields.io/badge/SemanaAtual-6+-yellow.svg) ![](https://img.shields.io/badge/Linguagem-C%2B%2B-orange.svg)
 
 Como todo bom engenheiro devemos saber programação. E o conhecimento em C++ é um diferencial. Aqui estamos todos aprendendo, vamos junto nessa aventura de baixo nível da Univesp.
 
